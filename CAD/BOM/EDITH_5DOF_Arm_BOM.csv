@@ -1,0 +1,13 @@
+Item,Part Name,Qty,Material,Notes
+1,Base Plate,1,Aluminum (provisional),Rotating support base
+2,Base Rotor,1,Aluminum (provisional),J1 yaw rotating stage
+3,Shoulder Mount Block,1,Aluminum (provisional),Supports J2 shoulder pitch axis
+4,Shoulder Shaft,1,Steel (provisional),Shoulder pivot shaft
+5,Upper Arm Link,1,Aluminum (provisional),Link between shoulder and elbow
+6,Elbow Joint Body,1,Aluminum/Steel (provisional),J3 elbow pivot body
+7,Forearm Link,1,Aluminum (provisional),Link between elbow and wrist
+8,Wrist Pitch Joint Body,1,Aluminum/Steel (provisional),J4 wrist pitch body
+9,Wrist Roll Joint Housing,1,Aluminum/Steel (provisional),J5 wrist roll housing
+10,Gripper Palm,1,Aluminum (provisional),Parallel gripper carrier
+11,Gripper Jaw Left,1,Steel/Aluminum (provisional),Parallel jaw
+12,Gripper Jaw Right,1,Steel/Aluminum (provisional),Parallel jaw
